@@ -21,16 +21,16 @@
 title: Understanding teacher judgements
 email: o.cassagneau-francis@ucl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the website for the ADR UK funded fellowship to investigate differences in teacher
+  judgements across groups and the impact these differences have on students' outcomes -- in 
+  particular through teacher predicted grades. 
 baseurl: "/teacher-judgement" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: opmc1
 github_username:  opmc2
 
 # Build settings
-remote_theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
